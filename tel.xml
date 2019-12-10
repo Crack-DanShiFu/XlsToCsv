@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<news xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/FXW/Desktop/201910_paper/newsSchema.xsd">
+		<inf>
+			<title>科大讯飞人工智能迎接“红利时代”</title>
+			<createDate>2019-10-10 15:27:25</createDate>
+			<source>中国日报网</source>
+			<newsDate>2019-08-30</newsDate>
+			<author>中报国际文化传媒（北京）有限公司</author>
+		</inf>
+		<evt>
+			<eventDate>2019-08-29</eventDate>
+			<event>以“智联世界，无限可能”为主题的2019世界人工智能大会在上海世博中心正式拉开帷幕。</event>
+		</evt>
+		<elements>
+			<gov/>
+			<subject/>
+			<media/>
+			<field/>
+		</elements>
+		<standpoint>
+			<standwords/>
+			<standscore/>
+		</standpoint>
+		<content>
+			<snt>听说人工智能会唱歌唱的如何呢?8月29日，以“智联世界，无限可能”为主题的2019世界人工智能大会在上海世博中心正式拉开帷幕。</snt>
+			<snt>作为“产业发展”主论坛的压轴环节，科大讯飞董事长刘庆峰用一首改编版《童年》为人工智能的未来发展送上美好祝愿。</snt>
+			<snt>欢快的熟悉音律久久回荡在大会内场。不过这首《童年》可不仅限于此，它还有一个特别之处。</snt>
+		</content>
+	</news>
